@@ -1,0 +1,27 @@
+.line {
+    height: 0.25rem;
+    width: 5rem;
+    background-color: #2C3E50;
+}
+.fa-star {
+    color: #2C3E50;
+}
+h1 {
+    color: #2C3E50;
+}
+.overlay {
+    background-color: #1BB4A6;
+    opacity: 0;
+    cursor: pointer;
+    transition: opacity 0.6s;
+}
+.overlay:hover {
+    opacity: 1;
+}
+.modall {
+    z-index: 9999;
+}
+.modall img {
+    width: 600px;
+}
+

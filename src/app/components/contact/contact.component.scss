@@ -1,0 +1,26 @@
+.line {
+    height: 0.25rem;
+    width: 5rem;
+    background-color: #2C3E50;
+}
+.fa-star {
+    color: #2C3E50;
+}
+input {
+    border-color: transparent;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.topp {
+    top: 40px;
+}
+label {
+    color: #1ABC9C;
+    top: 0;
+    transition: 0.6s top;
+}
+.message-btn {
+    border: 1px solid #1ABC9C !important;
+    background-color: #1ABC9C !important;
+}
